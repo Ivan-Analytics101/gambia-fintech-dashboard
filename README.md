@@ -1,6 +1,6 @@
 # 📊 [Project Title: Random Fintech Monthly Transaction & Revenue Performance Analysis]
 
-![Project Banner or Dashboard Preview](link-to-your-dashboard-screenshot.png)
+![Project Banner or Dashboard Preview](ANALYSIS 3.png)
 
 ---
 
@@ -62,7 +62,7 @@ Translate your data findings into strategic actions for business decision-makers
 
 ## 📊 Interactive Dashboard Showcase
 
-![Full Dashboard Screenshot](link-to-your-dashboard-screenshot.png)
+![FINTECH DASHBOARD](ANALYSIS%303.png)
 
 ---
 
